@@ -1,10 +1,11 @@
 #!/bin/bash
 
-# This line is commented
+PERSON1=Hiu
+PERSON2=KAVYA
 
 # Comment
 
 echo "Hello World"
 
-echo "Hello Hiu"
+echo  "Hello Hiu"
 echo "iam kavya"

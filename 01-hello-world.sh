@@ -7,5 +7,5 @@ PERSON2=KAVYA
 
 echo "Hello World"
 
-echo  "Hello Hiu"
-echo "iam kavya"
+echo "Hello $PERSON1"
+echo "iam $PERSON2"
